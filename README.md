@@ -3,11 +3,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/lovepinnock-work](https://github.com/lovepinnock-work)
 
-- ⚡ Cool fact **My name being Love!**
+- ⚡ Cool fact about me is **My name being Love!**
+
+-  Hello all, I hope you guys enjoy my github page as much as resolving an elusive bug that's escaped your grasp for weeks. I am a well rounded individual, in my free time I love to play sports, go to the gym, hikes, nature walks, or tend to my garden. However, my true love is coding. I love catching up on the latest AI news and thinking about how to make it more useful for us humans, I enjoyed exploring different languages and diving deep into their inner workings, coming up with inventions that simplify day to day life and so much more! Please stay tuned, theres so much more I want to share with you all - Love!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lovepinnock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lovepinnock" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/lovepinnock](https://www.linkedin.com/in/love-pinnock-31b6a21b3/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lovepinnock" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
