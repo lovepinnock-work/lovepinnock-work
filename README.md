@@ -29,7 +29,6 @@ This is my technical portfolio GitHub — each pinned repository below represent
 ### 📂 Featured Projects
 
 - [FastAPI Social API](https://github.com/lovepinnock-work/fastapi-social-api) — scalable backend API with auth, persistence, and CI  
-- [Swift Project](https://github.com/lovepinnock-work/swift-project) — native Swift application with structured architecture + XCTest
 - [Embedded/Systems Project](https://github.com/lovepinnock-work/smart-fountain) —hardware-integrated software and low-level programming
 
 (See individual repositories for details, setup instructions, and design notes.)
