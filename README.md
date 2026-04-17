@@ -30,6 +30,7 @@ This is my technical portfolio GitHub — each pinned repository below represent
 
 - [FastAPI Social API](https://github.com/lovepinnock-work/fastapi-social-api) — scalable backend API with auth, persistence, and CI  
 - [Embedded/Systems Project](https://github.com/lovepinnock-work/smart-fountain) —hardware-integrated software and low-level programming
+- [AI/ML](https://github.com/lovepinnock-work/job-application-tracker) -LLM powered job application tracker, using AI to simplify and consolidate information
 
 (See individual repositories for details, setup instructions, and design notes.)
 
